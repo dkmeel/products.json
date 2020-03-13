@@ -24,6 +24,18 @@
       "title":"Office Table",
       "price":136,
       "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPj8qlwuBUwwfHCY_zqLCVFVFD5oDJb70OzcK3pdpp9LTCOYWZ"
-    }
+    },
+     {
+      "data-id":5,
+      "title":"Almira",
+      "price":75,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSN0fuR_Jftu4T4bgJrXmRnR2equaqrJAmU_iBYEvD-aiCOlKnICXnS5nLuFZ8mK1IGFDJNzfhE&usqp=CAc"
+    },
+     {
+      "data-id":6,
+      "title":"multi-function",
+      "price":250,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJy9SKySWese3L__Ps-hIJI403aChZz2yUq3Hry7E5ABK1lvFO"
+    },
   ]
 }
