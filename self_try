@@ -1,0 +1,29 @@
+{
+  "items":
+  [
+    {
+      "data-id":1,
+      "title":"Chair",
+      "price":50,
+      "img":"https://cdn.shopify.com/s/files/1/0191/2234/products/DM_2048x.jpg?v=1570691195"
+    },
+    {
+      "data-id":2,
+      "title":"Sofa",
+      "price":150,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxYdvZyFcFLqq4hpwtWGc4d3D4l_N38jThocN7ukeQDcLbtqp3"
+    },
+    {
+      "data-id":3,
+      "title":"Bed",
+      "price":300,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2CUZyKJyVQHpPGwJ1f9N-9gMAA2TyASxwSNcuvF1IIaFxHj1t"
+    },
+    {
+      "data-id":4,
+      "title":"Office Table",
+      "price":136,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPj8qlwuBUwwfHCY_zqLCVFVFD5oDJb70OzcK3pdpp9LTCOYWZ"
+    }
+  ]
+}
